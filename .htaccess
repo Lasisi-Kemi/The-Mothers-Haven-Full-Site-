@@ -1,2 +1,1 @@
-AddHandler php-script .php
-DirectoryIndex index.php
+AddType application/x-httpd-php .php
